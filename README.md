@@ -38,8 +38,8 @@
   
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/techdron) [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/techdron) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/andrewtetekin) 
 <p align="center">
-  <a href="https://www.tinkoff.ru/cf/ВАШ_КОД" target="_blank">
-    <img src="https://raw.githubusercontent.com/ВАШ_USERNAME/ВАШ_REPO/main/banner.png" alt="Поддержать через Тинькофф" />
+  <a href="https://tbank.ru/cf/n9Lv6wuPtH target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Tinkoff_logo_2024.svg" alt="Поддержать через Тинькофф" width="200"/>
   </a>
 </p>
 

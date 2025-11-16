@@ -22,7 +22,20 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=techdron&icon=2&color=4)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
+## 💰 You can help me by Donating
+<svg width="640" height="140" viewBox="0 0 800 140" role="img" aria-label="Support via Tinkoff">
+  <rect width="800" height="140" rx="12" fill="#0b1220"/>
+  <rect x="12" y="12" width="116" height="116" rx="8" fill="#ffcc00"/>
+  <g transform="translate(40,30)">
+    <text x="0" y="22" font-family="Verdana, Arial, sans-serif" font-size="22" font-weight="700" fill="#0b1220">Tinkoff banking</text>
+    <text x="0" y="52" font-family="Verdana, Arial, sans-serif" font-size="12" fill="#0b1220">Project</text>
+  </g>
+  <g transform="translate(150,40)">
+    <text x="0" y="22" font-family="Inter, Arial, sans-serif" font-size="28" font-weight="600" fill="#FFFFFF">Support developming</text>
+    <text x="0" y="52" font-family="Inter, Arial, sans-serif" font-size="14" fill="#AFC4DD"><a xlink:href="https://tbank.ru/cf/n9Lv6wuPtH" target="_blank" rel="noopener"> Click — processed to payments for Tinkoff </a></text>
+  </g>
+</svg>  
+  
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/techdron) [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/techdron) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/andrewtetekin) 
 <p align="center">
   <a href="https://www.tinkoff.ru/cf/ВАШ_КОД" target="_blank">
